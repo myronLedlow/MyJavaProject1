@@ -1,0 +1,12 @@
+John, Stamos, jstamos@yahoo.com
+John, Wayne, jwayne@yahoo.com
+Jimmy, Hendrix, jhendrix@yahoo.com
+Bob, Dylan, dylan@yahoo.com
+John, Denver, jdenver@yahoo.com
+Robert, Plant, rplant@yahoo.com
+John, Bonham, jbonham@yahoo.com
+Keith, Richards, krichards@yahoo.com
+Willie, Nelson, wnelson@yahoo.com
+Jimmy, Page, jpage@yahoo.com
+George, Carlin, gcarlin@yahoo.com
+Dolly, Parton, dparton@outlook.com
